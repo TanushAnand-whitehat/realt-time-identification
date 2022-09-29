@@ -1,0 +1,36 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    font-size: 27px;
+    margin: 0px;
+}
+
+#start {
+    font-size: 16px;
+    border-radius: 15px;
+}
+
+#no_objects {
+font-size: 14px;
+}
+
+#status {
+    font-size: 14px;
+    }
+
+    .footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        background-color: beige;
+        text-align: center;
+    }
+
+    canvas {
+        box-shadow: 7px 7px 15px darkolivegreen;
+        border: 3px solid darkred; 
+        margin-top: 120px;
+    }
